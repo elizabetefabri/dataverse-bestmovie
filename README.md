@@ -69,7 +69,7 @@
       <td>Projeto Finalizado! Confira 🎈🎉✨</td>
       <td align="center">
         <a href="https://elizabetefabri.github.io/dataverse-bestmovie/" target="_blank">
-           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20GitHubPages-0A1B2F?style=for-the-badge" width="200px">
+           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20SITE-0A1B2F?style=for-the-badge" width="150px">
         </a>
       </td>
     </tr>
